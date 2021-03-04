@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colgroup</title>
+</head>
+<body>
+    <!--
+        2 Lojas
+            Quantos produtos foram produzidos, quantos
+            vendidos e agrupados por nome dos produtos
+    -->
+    
+    <table>
+        
+        <caption>Produzidos x Vendidos por Loja</caption>
+        
+        <colgroup>
+            <col>
+            <col span="2" style="background-color: yellow">
+            <col span="2" style="background-color: aqua">
+        </colgroup>
+        
+        <thead>
+        <tr>
+            <th rowspan="2"></th>
+            <th colspan="2">Afonso Pena</th>
+            <th colspan="2">Antônia Pereira</th>
+        </tr>
+        
+        <tr>
+            <th>Produzidos</th>
+            <th>Vendidos</th>
+            <th>Produzidos</th>
+            <th>Vendidos</th>
+        </tr>
+        </thead>
+        
+        <tbody>
+        <tr>
+            <th>Vassouras</th>
+            <td>50</td>
+            <td>30</td>
+            <td>20</td>
+            <td>20</td>
+        </tr>
+        
+        <tr>
+            <th>Baldes</th>
+            <td>10</td>
+            <td>10</td>
+            <td>30</td>
+            <td>25</td>
+        </tr>
+        </tbody>
+    </table>
+</body>
+</html>
