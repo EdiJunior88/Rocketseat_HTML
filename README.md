@@ -19,4 +19,4 @@ e tudo o que podemos criar com ela.
 <hr/>
 
 <h4><b>Aulas:</b> :vhs: 5 Módulos + Video-aulas</h4>
-<h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>
+<h4><b>Status do Curso:</b> :white_check_mark: Concluído
