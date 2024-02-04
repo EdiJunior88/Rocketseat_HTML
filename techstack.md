@@ -24,7 +24,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EdiJunior88/Rocketseat_HTML](https://github.com/EdiJunior88/Rocketseat_HTML)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|1<br/>Tools used|01/31/24 <br/>Report generated|
+|1<br/>Tools used|02/04/24 <br/>Report generated|
 |------|------|
 </div>
 
