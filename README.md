@@ -16,7 +16,13 @@ e tudo o que podemos criar com ela.
   <li>Cabeçalho</li>
 </ul>
 
-<hr/>
+<hr>
+
+<h3>Tecnologias Utilizadas</h3>
+
+Para ver todas as tecnologias [clique aqui](/techstack.md)
+
+<hr>
 
 <h4><b>Aulas:</b> :vhs: 5 Módulos + Video-aulas</h4>
 <h4><b>Status do Curso:</b> :white_check_mark: Concluído
